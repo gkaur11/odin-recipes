@@ -1,0 +1,52 @@
+* {
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: rgb(235, 154, 168);
+    font-size: 48px;
+    text-align: center;
+}
+
+#recipes {
+    color: white;
+    font-size: 14px;
+    text-align: center;
+}
+
+.list {
+    color: black;
+    text-align: left;
+}
+
+.masalachai {
+    height: auto;
+    width: 597px;
+}
+
+.samosa {
+    height: auto;
+    width: 600px;
+}
+
+.tandoorichicken {
+    height: auto;
+    width: 518px;
+}
+
+h2 {
+    font-size: 36px;
+    text-align: left;
+    color: rgb(131, 179, 196);
+}
+
+h3 {
+    font-size: 24px;
+    text-align: left;
+    color: rgb(106, 170, 106);
+}
+
+p {
+    background-color: gainsboro;
+    font-size: 14px;
+}
